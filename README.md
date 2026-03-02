@@ -1,7 +1,7 @@
 this is Lab 2 project
 
 ![My Image](brain.png)
-![My Image 1](Screenshot 2026-03-02 142321.png)
-![My Image 2](Screenshot 2026-03-02 142348.png)
-![My Image 3](Screenshot 2026-03-02 142403.png)
-![My Image 4](Screenshot 2026-03-02 142421.png)
+![My Image 1](image1.png)
+![My Image 2](image2.png)
+![My Image 3](image3.png)
+![My Image 4](image4.png)
